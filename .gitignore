@@ -1,2 +1,4 @@
-environments
-resources
+/environments/
+/resources/
+
+.DS_Store
