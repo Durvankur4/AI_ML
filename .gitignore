@@ -1,4 +1,6 @@
 /environments/
 /resources/
+**/.ipynb_checkpoints/
+projects/.env
 
 .DS_Store
